@@ -1,6 +1,6 @@
 ---
 home: true
-actionText: 快速上手adssa：→
+actionText: 快速上手s→
 actionLink: /archives/
 features:
 - title: 简洁至上1
