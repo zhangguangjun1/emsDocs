@@ -4,4 +4,4 @@ git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/zhangguangjun1/emsDocs.git
-git push -u origin mai
+git push -u origin main
